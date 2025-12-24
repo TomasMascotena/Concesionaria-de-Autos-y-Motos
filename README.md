@@ -26,6 +26,6 @@ Este proyecto simula el funcionamiento de una concesionaria de vehículos, imple
 
 ##👤 Autor
 Tomas Mascotena
-📧 Contacto: tomiimasco@gmail.com
+📧 Contacto: tomasnmascotena@gmail.com
 
 ¡Gracias por visitar el proyecto!
